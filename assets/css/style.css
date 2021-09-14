@@ -6,6 +6,14 @@
     color: #234074;
 }
 
+.text-blue {
+    color: #4060ca;
+}
+
 .text-spacing {
     letter-spacing: 7px;
+}
+
+.text-underline {
+    text-decoration: underline;
 }
