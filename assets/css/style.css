@@ -17,3 +17,38 @@
 .text-underline {
     text-decoration: underline;
 }
+
+a {
+    color: #4060ca;
+}
+
+.bg-grey {
+    background-color: #f7f8fa;
+}
+
+.arrow-right-small-paste {
+    width: 0;
+    height: 0;
+    border-top: 15px solid transparent;
+    border-bottom: 15px solid transparent;
+
+    border-left: 30px solid #5ebaab;
+}
+
+.arrow-down-blue {
+    width: 0;
+    height: 0;
+    border-left: 30px solid transparent;
+    border-right: 30px solid transparent;
+
+    border-top: 60px solid #93baff;
+}
+
+.arrow-right-md-yellow {
+    width: 0;
+    height: 0;
+    border-top: 30px solid transparent;
+    border-bottom: 30px solid transparent;
+
+    border-left: 60px solid #223f77;
+}
