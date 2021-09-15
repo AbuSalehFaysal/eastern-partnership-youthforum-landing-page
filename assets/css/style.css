@@ -18,6 +18,15 @@ body {
     z-index: 10;
 }
 
+.rectangle {
+    height: 10px;
+    background-color: #ebb854;
+}
+
+.lightwhite {
+    color: #e5e6e9;
+}
+
 .arrow-right {
     width: 0;
     height: 0;
@@ -193,4 +202,8 @@ a {
 
 .blue {
     color: #325de9;
+}
+
+.second-section {
+    margin-top: 150px;
 }
